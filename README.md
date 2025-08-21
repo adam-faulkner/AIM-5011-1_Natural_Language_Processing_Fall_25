@@ -1,1 +1,1 @@
-# AIM-5011-1_Special_Topic_Advanced_NLP
+# AIM-5011-1_Natural_Language_Processing_Fall_25
