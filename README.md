@@ -31,7 +31,7 @@ By the end of this course students will have
 ## Course Material
 The material for this course consists of 
 
-* representative research papers or textbook chapters containing technical presentations of each week's topic. All of this material is linked in the Course Schedule section in `AIM-5011-1_Natural_Language_Processing_Fall_25/syllabus_NLP_Fall_25.pdf`
+* representative research papers or textbook chapters containing technical presentations of each week's topic. All of this material is linked in the Course Schedule section in `AIM-5011-1_Natural_Language_Processing_Fall_25/syllabus_NLP_Fall_25_revision.pdf`
 * Jupyter notebooks illustrating implementations of the concepts described in each week's topic. These notebooks are available on both Canvas and in the course repo and can be reviewed before each class and run on Collab.  
 * slides presented in class. These will also be made available in Canvas an in the course repo
 
